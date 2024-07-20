@@ -1,5 +1,7 @@
 ## Hi, welcome to my GitHub!
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=elaiinechenn) /> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elaiinechenn&label=Profile%20views&color=0e75b6&style=flat" alt="elaiinechenn" /> </p>
+
 
 <!--
 **elaiinechenn/elaiinechenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
