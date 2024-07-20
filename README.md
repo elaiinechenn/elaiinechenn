@@ -1,6 +1,5 @@
 ## Hi, welcome to my GitHub!
-<div style="display: flex;">
-    <img src="[https://raw.githubusercontent.com/scraly/gophers/main/jurassic-park.png](https://media.giphy.com/media/860eskGXlPF6DIvs9v/giphy.gif?cid=ecf05e47e88u2s8n4vvnwgao7eyqs7h4ne1g9y8vs5ml648w&ep=v1_gifs_search&rid=giphy.gif&ct=s)">
+
   
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=elaiinechenn) /> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elaiinechenn&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="elaiinechenn" /> </p>
