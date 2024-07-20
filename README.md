@@ -1,6 +1,6 @@
 ## Hi, welcome to my GitHub!
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=elaiinechenn) /> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elaiinechenn&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="elaiinechenn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elaiinechenn&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="elaiinechenn" /> </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
