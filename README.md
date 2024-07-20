@@ -1,4 +1,4 @@
-## Hi, welcome to my GitHub! <a href=""><img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="Party Blob" width="30"></a>
+## Hi, welcome to my GitHub!
 
 <!--
 **elaiinechenn/elaiinechenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
