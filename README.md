@@ -25,7 +25,7 @@
 
 ### 🛠️ Tech Stack
    ![Python](https://img.shields.io/badge/-Python-05122A?logo=python&style=flat)&nbsp;
-   ![R Language](https://img.shields.io/badge/-R-05122A?logo=rlanguage&style=flat)&nbsp;
+   ![R](https://img.shields.io/badge/-R-05122A?logo=rlanguage&style=flat)&nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
    ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
    ![AmazonDynamodb](https://img.shields.io/badge/-AmazonDynamodb-05122A?style=flat&logo=amazondynamodb)&nbsp;
