@@ -41,7 +41,7 @@
 ### :coffee: Let's Connect 
 <p align="center">
 	<a href="https://github.com/elaiinechenn"><img src="https://icons8.com/icon/60ZV_wYC0BM2/linkedin" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/i-lien-chen-pm/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/i-lien-chen-pm/"><img src="https://icons8.com/icon/60ZV_wYC0BM2/linkedin" alt="LinkedIn"/></a>
 </p>
 
 
