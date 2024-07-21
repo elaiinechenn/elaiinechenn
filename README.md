@@ -6,6 +6,23 @@
 
 ### <a href=""><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></a> About me 
 
+```
+
+ ----------------
+< Hi! I'm Elaine!! >
+ ----------------
+        \
+         \
+｜/／ 
+　 　　／￣￣￣＼
+　 　/ ⊙ 　　　　\
+　 ∠︳　Elaine   　\
+　 　︳　　　  ＿＿＿＼＿
+　 　 \　　  （＿＿／ _／
+　　 　 ＼　　　　  ＿＞
+　　　 　爪︶︶︶爪
+
+
 
 
 <!--
