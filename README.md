@@ -40,9 +40,11 @@
 
 ### :coffee: Let's Connect 
 <p align="center">
-	<a href="https://github.com/elaiinechenn"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/elaiinechenn"><img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/i-lien-chen-pm/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+
+
 
 <!--
 **elaiinechenn/elaiinechenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
