@@ -24,7 +24,7 @@
 ```
 
 ### 🛠️ Tech Stack
-    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+    (https://img.shields.io/badge/-Python-05122A?)
 
 
 <!--
