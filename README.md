@@ -36,7 +36,7 @@
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaiinechenn&hide_title=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&count_private=true&&line_height=21&text_color=daf7dc&bg_color=002b36" />
   <img height="120px" src="https://github-readme-stats.vercel.app/api?username=elaiinechenn&hide_title=true&show_icons=true&hide=prs,issues,contribs&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=002b36" />
   </div>
-![Snake animation](https://raw.githubusercontent.com/elaiinechenn/elaiinechenn/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/elaiinechenn/elaiinechenn/output/github-contribution-grid-snake-dark.svg)
 
 
 <!--
