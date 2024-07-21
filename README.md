@@ -25,13 +25,9 @@
 
 ### 🛠️ Tech Stack
    ![Python](https://img.shields.io/badge/-Python-05122A?logo=python&style=flat)&nbsp;
-   ![R](https://img.shields.io/badge/-R-05122A?logo=RLanguage&style=flat)&nbsp;
+   ![R Language](https://img.shields.io/badge/-R-05122A?logo=RLanguage&style=flat)&nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-   ![AmazonDynamodb](https://img.shields.io/badge/-AmazonDynamodb-05122A?style=flat&logo=amazondynamodb)&nbsp;
-   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-   ![Githubactions](https://img.shields.io/badge/-Githubactions-05122A?style=flat&logo=Githubactions)&nbsp;
    ![AWS](https://img.shields.io/badge/-Aws-05122A?logo=amazonaws&style=flat)&nbsp;
    ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)&nbsp;
 
