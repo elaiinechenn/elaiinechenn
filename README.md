@@ -1,4 +1,4 @@
-## Hi, welcome to my GitHub!
+<h1 align="center">Hi There👋, I'm Elaine Chen.</h1>
 
   
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=elaiinechenn) /> -->
@@ -21,6 +21,14 @@
 　 　 \　　  （＿＿／ _／
 　　 　 ＼　　　　  ＿＞
 　　　 　爪︶︶︶爪
+
+
+🔭 I’m interested in Data Analytics and Business Intelligence<br>
+🌱 I’m currently looking for new opportunities in Tech, 2 years in Marketing Data Analyst role.<br>
+📫 How to reach me elainechenilien@gmail.com<br>
+⚡ Fun fact- I like paying attention to details<br>
+
+
 ```
 
 ### 🛠️ Tech Stack
@@ -30,7 +38,13 @@
    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
    ![AWS](https://img.shields.io/badge/-Aws-05122A?logo=amazonaws&style=flat)&nbsp;
    ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)&nbsp;
+   ![Advance Excel](https://img.shields.io/badge/-Advance_Excel-05122A?style=flat&logo=Excel)&nbsp;
+   ![Power_BI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=Power_BI)&nbsp;
+   ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-05122A?style=flat&logo=Data_Analysis)&nbsp;
+   ![Business Analysis](https://img.shields.io/badge/-Business_Analysis-05122A?style=flat&logo=Business_Analysis)&nbsp;
 
+
+   
 ### 💻 Coding Activity
   <div align="center">
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaiinechenn&hide_title=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&count_private=true&&line_height=21&text_color=daf7dc&bg_color=002b36" />
