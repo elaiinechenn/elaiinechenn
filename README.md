@@ -25,7 +25,7 @@
 
 🔭 I’m interested in Data Analytics and Business Intelligence
 🌱 I’m currently looking for new opportunities in Tech, 2 years in Marketing Data Analyst role
-📫 Feel free to reach me at elainechenilien@gmail.com
+📫 How to reach me elainechenilien@gmail.com
 ⚡ Fun fact- I like paying attention to details
 
 
