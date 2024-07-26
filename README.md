@@ -23,13 +23,12 @@
 　　　 　爪︶︶︶爪
 
 
+```
+
 🔭 I’m interested in Data Analytics and Business Intelligence
 🌱 I’m currently looking for new opportunities in Tech, 2 years in Marketing Data Analyst role
 📫 How to reach me elainechenilien@gmail.com
 ⚡ Fun fact- I like paying attention to details
-
-
-```
 
 ### 🛠️ Tech Stack
    ![Python](https://img.shields.io/badge/-Python-05122A?logo=python&style=flat)&nbsp;
